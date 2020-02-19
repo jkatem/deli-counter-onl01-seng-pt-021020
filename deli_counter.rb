@@ -13,6 +13,5 @@ def line(arr)
 end
 
 def take_a_number(arr, num)
-
   puts arr.each_with_index { |name, num| greet << "Welcome, #{name}. You are number #{num+1} in line."}
 end
